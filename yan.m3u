@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV14" group-title="国内少儿",CCTV-14 少儿
+https://live.cctv.com/hls/cctv14.m3u8
+#EXTINF:-1 tvg-name="JINYING" group-title="国内少儿",金鹰卡通
+http://39.134.144.6:8089/PLTV/88888888/224/3221226404/index.m3u8
+#EXTINF:-1 tvg-name="KAKU" group-title="国内少儿",卡酷少儿
+http://39.134.144.6:8089/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-name="JIAJIA" group-title="国内少儿",嘉佳卡通
+http://39.134.144.6:8089/PLTV/88888888/224/3221226503/index.m3u8
+#EXTINF:-1 tvg-name="YOUMAN" group-title="国内少儿",优漫卡通
+http://42.176.185.28:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="HAHAXUANDONG" group-title="国内少儿",哈哈炫动
+http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226677/1.m3u8
